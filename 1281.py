@@ -3,7 +3,7 @@ from typing import List
 #from collections import Counter
 
 class inputValue:
-    def inputValueValidation(self) -> List[int]:
+    def inputValueValidation(self) -> int:
           while True:
             try:
                 #arr = list(map(int, input("Please input an array (no input to quit) : ").split()))
