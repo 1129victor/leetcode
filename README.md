@@ -1,3 +1,4 @@
 # leetcode
-Practice for leetcode <br />
-Difficulty:Easy
+Practice for leetcode <br/>
+Difficulty:Easy <br/>
+Language:Python
