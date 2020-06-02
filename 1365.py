@@ -1,13 +1,7 @@
 # -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""
 
 from typing import List
 
-from collections import Counter
 
 class inputValue:
     def inputValueValidation(self) -> List[int]:
