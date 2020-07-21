@@ -32,7 +32,7 @@ class Solution:
         global result
         ans = result
         result = 0
-        return ans
+        return ans 
         '''
         if not root:
             return 0
